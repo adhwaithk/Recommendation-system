@@ -34,9 +34,9 @@ Streamlit: For developing a user-friendly web application interface.
 
 Installation
 ---------------------------------------
-git clone <repository_URL>
-cd movie-recommendation-system
-pip install numpy pandas nltk streamlit
+git clone <repository_URL>, 
+cd movie-recommendation-system, 
+pip install numpy pandas nltk streamlit, 
 streamlit run app.py
 
 Contributing
